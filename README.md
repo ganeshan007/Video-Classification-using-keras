@@ -1,3 +1,4 @@
 # Video-Classification-using-keras
 *The model weights are saved in the model.h5 file
 The model structure can be found in the model.json file*
+https://drive.google.com/open?id=1aror53ReUSiU7dvGRF2uXpTxXAG6bX42
